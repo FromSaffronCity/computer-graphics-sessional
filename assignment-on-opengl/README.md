@@ -13,6 +13,6 @@ This repository contains all the programs coded for assignment on OpenGL **(Offl
 - **Intersection of a line and a plane:** https://drive.google.com/file/d/1O_T9e2Od0fPMDodkA1fhVxnyAptunv59/view?usp=sharing  
 - **Find parametric equation of a line passing through two points:** https://math.stackexchange.com/questions/253994/find-parametric-and-symmetric-equations-of-a-line-passing-through-two-points  
 ## Fully Controllable Camera and Gun  
-![alt text](https://github.com/FromSaffronCity/node-js-tutorials/blob/main/fullstack-vuejs-express-mongodb/res/heroku-app.png?raw=true)  
+![alt text](https://github.com/FromSaffronCity/computer-graphics-sessional/blob/main/assignment-on-opengl/res/1605023_1.PNG?raw=true)  
 ## Bubbles  
-![alt text](https://github.com/FromSaffronCity/node-js-tutorials/blob/main/fullstack-vuejs-express-mongodb/res/heroku-app.png?raw=true)  
+![alt text](https://github.com/FromSaffronCity/computer-graphics-sessional/blob/main/assignment-on-opengl/res/1605023_2.PNG?raw=true)  
